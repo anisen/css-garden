@@ -1,1 +1,28 @@
 /* Agrega aquí tus estilos*/
+*{
+	font-family: 'Lora', serif;
+}
+header h1{
+	color: green;
+	font-size: 60px;
+}
+header h2{
+	color: 
+}
+body{
+background: rgba(76,76,76,1);
+background: -moz-linear-gradient(left, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 12%, rgba(107,101,107,1) 20%, rgba(66,61,66,1) 41%, rgba(71,71,71,1) 62%, rgba(110,107,110,1) 77%, rgba(77,70,77,1) 92%, rgba(71,66,71,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(76,76,76,1)), color-stop(12%, rgba(89,89,89,1)), color-stop(20%, rgba(107,101,107,1)), color-stop(41%, rgba(66,61,66,1)), color-stop(62%, rgba(71,71,71,1)), color-stop(77%, rgba(110,107,110,1)), color-stop(92%, rgba(77,70,77,1)), color-stop(100%, rgba(71,66,71,1)));
+background: -webkit-linear-gradient(left, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 12%, rgba(107,101,107,1) 20%, rgba(66,61,66,1) 41%, rgba(71,71,71,1) 62%, rgba(110,107,110,1) 77%, rgba(77,70,77,1) 92%, rgba(71,66,71,1) 100%);
+background: -o-linear-gradient(left, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 12%, rgba(107,101,107,1) 20%, rgba(66,61,66,1) 41%, rgba(71,71,71,1) 62%, rgba(110,107,110,1) 77%, rgba(77,70,77,1) 92%, rgba(71,66,71,1) 100%);
+background: -ms-linear-gradient(left, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 12%, rgba(107,101,107,1) 20%, rgba(66,61,66,1) 41%, rgba(71,71,71,1) 62%, rgba(110,107,110,1) 77%, rgba(77,70,77,1) 92%, rgba(71,66,71,1) 100%);
+background: linear-gradient(to right, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 12%, rgba(107,101,107,1) 20%, rgba(66,61,66,1) 41%, rgba(71,71,71,1) 62%, rgba(110,107,110,1) 77%, rgba(77,70,77,1) 92%, rgba(71,66,71,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#474247', GradientType=1 );
+	}
+.summary{
+-webkit-box-shadow: 10px -5px 29px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px -5px 29px 0px rgba(0,0,0,0.75);
+box-shadow: 10px -5px 29px 0px rgba(0,0,0,0.75);
+background-color: whitesmoke;
+color: black;
+}
